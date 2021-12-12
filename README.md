@@ -8,6 +8,9 @@ There are four kinds of string data you might see:
 • Structured string data
 • Text data
 
+![image](https://user-images.githubusercontent.com/53411455/145695978-c2824cda-bb8d-4878-9223-10b3bafedaae.png)
+
+
 # Data source
 
 We will use a dataset of movie reviews from the IMDb (Internet Movie Database) website collected by Stanford researcher Andrew Maas.3 This dataset contains the text of the reviews, together with a label that indicates whether a review is “positive” or “negative.” The IMDb website itself contains ratings from 1 to 10. To simplify the modeling, this annotation is summarized as a two-class classification dataset where reviews with a score of 6 or higher are labeled as positive, and the rest as negative. The data can be found in this repository as 'aclImdb_v1.tar.gz'. The notebook containg the codes for the project can be found in this repository as ' Untitled.iypnb'.
