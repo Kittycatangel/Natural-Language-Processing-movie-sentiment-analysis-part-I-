@@ -3,9 +3,13 @@
 # Introduction
 Text is usually just a string in your dataset, but not all string features should be treated as text. A string feature can sometimes represent categorical variables. There is no way to know how to treat a string feature before looking at the data.
 There are four kinds of string data you might see:
+
 • Categorical data
+
 • Free strings that can be semantically mapped to categories
+
 • Structured string data
+
 • Text data
 
 ![image](https://user-images.githubusercontent.com/53411455/145695978-c2824cda-bb8d-4878-9223-10b3bafedaae.png)
